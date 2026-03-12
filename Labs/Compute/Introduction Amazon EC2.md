@@ -57,11 +57,11 @@ This hands-on lab provided me with a solid understanding of the complete EC2 ins
 
 
 
-My AWS Web Server Configuration Success
+<b>My AWS Web Server Configuration Success</b>
 I just finished setting up a web server on an AWS EC2 instance. Initially, when I tried to visit the website using the instance's public IP address, the page wouldn't load. This was a great hands-on lesson in how Security Groups work as a virtual firewall.
 
 By default, AWS blocks all inbound traffic for security. Since my web server uses Port 80 (HTTP), I had to manually update my security group to permit requests on that specific port from anywhere on the internet. Once I added the inbound rule and saved the settings, the connection worked instantly.
 
-The result is shown in the screenshot below, confirming the server is live and communicating with the world!
+The result is shown in the screenshot below!
 
 <img width="943" height="472" alt="image" src="https://github.com/user-attachments/assets/617dd173-b98e-40eb-9389-a26f53c1e0f4" />
