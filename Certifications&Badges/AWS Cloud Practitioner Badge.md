@@ -21,4 +21,4 @@ I entered this journey with **zero background in IT**. What began as a confusing
 ### **Verified Certification**
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/6f02690d-400d-4521-88c7-43b9576885df/image.png)](https://www.credly.com/badges/1b0c5460-d933-400d-9788-bf994d4ef644/public_url)
 
-*Click the badge above to verify my achievement.*
+*Click the badge above to verify my achievement on Credly.*
