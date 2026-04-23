@@ -1,4 +1,4 @@
-# Hi there, I'm Mekkiye 👋
+# Hi there, I'm Mekkiye 
 
 **AWS re/Start Program Participant | Cloud Operations Enthusiast**
 
@@ -6,36 +6,36 @@ Welcome to my GitHub! I'm currently immersed in the rigorous 12-week AWS re/Star
 
 ---
 
-## 📘 What I Do Daily (My Cloud Operations Routine)
+##  What I Do Daily (My Cloud Operations Routine)
 
-- **🛠️ 09:00 AM - Building the Core**
+- ** 09:00 AM - Building the Core**
   - Diving deep into AWS technical architecture
   - Hands-on labs practicing VPC provisioning (public/private subnets, route tables, NAT gateways)
   - Understanding network design and security best practices
 
-- **💻 11:00 AM - Scripting for Automation**
+- ** 11:00 AM - Scripting for Automation**
   - Developing skills in Bash (Linux) and Python scripting
   - Automating routine tasks and infrastructure management
   - Building confidence with command-line tools
 
-- **☁️ 01:00 PM - Compute & Storage Deep Dive**
+- ** 01:00 PM - Compute & Storage Deep Dive**
   - Configuring and deploying applications on EC2
   - Working with Auto Scaling Groups and Load Balancers
   - Managing storage solutions (S3, EBS, RDS)
 
-- **🔐 03:00 PM - The Operations Mindset**
+- ** 03:00 PM - The Operations Mindset**
   - Setting up monitoring and alerting with Amazon CloudWatch
   - Troubleshooting failed deployments and performance issues
   - Learning incident response and operational best practices
 
-- **📝 04:30 PM - Agile & Professional Skills**
+- ** 04:30 PM - Agile & Professional Skills**
   - Participating in daily stand-ups
   - Practicing troubleshooting scenarios
   - Developing communication and teamwork skills
 
 ---
 
-## 🚀 Key Projects & Hands-On Labs
+##  Key Projects & Hands-On Labs
 
 - **Designed a Three-Tier VPC Architecture**
   - Built highly available network infrastructure spanning two Availability Zones
@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm currently immersed in the rigorous 12-week AWS re/Star
 
 ---
 
-## 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Cloud Provider:**
 - Amazon Web Services (VPC, EC2, S3, IAM, Lambda, CloudWatch, RDS)
@@ -71,17 +71,17 @@ Welcome to my GitHub! I'm currently immersed in the rigorous 12-week AWS re/Star
 
 ---
 
-## 🎓 Certifications in Progress
+##  Certifications in Progress
 
 - AWS Certified Cloud Practitioner (Targeting Q2 2026)
 - AWS Certified Solutions Architect – Associate (Next step)
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm eager to apply my foundational knowledge to real-world cloud challenges. If you're looking for a motivated, entry-level cloud professional who understands the discipline of daily operations and continuous learning, let's talk!
 
 **Contact Me:**
-- 📧 [mekkiyeesen@gmail.com](mailto:mekkiyeesen@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mekkiye-esen-6467903b6)
+-  [mekkiyeesen@gmail.com](mailto:mekkiyeesen@gmail.com)
+-  [LinkedIn Profile](https://www.linkedin.com/in/mekkiye-esen-6467903b6)
